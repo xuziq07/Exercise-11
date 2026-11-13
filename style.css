@@ -1,0 +1,33 @@
+
+body {
+    background-color: white;
+    font-family: "Times New Roman", serif;
+}
+
+.container {
+    background-color: white;
+    border: 3px solid #ccc;
+    box-shadow: 0 0 12px gray;
+    padding: 10px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: overline;
+    text-shadow: 3px 3px 2px pink;
+}
+
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    border: 3px solid yellow;
+    outline: 2px solid olive;
+}
+
+h3 {
+    font-size: 24px;
+    text-align: right;
+    text-decoration: underline;
+}
